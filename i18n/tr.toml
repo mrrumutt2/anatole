@@ -1,0 +1,24 @@
+[category]
+other = "kategori"
+
+[tag]
+other = "etiket"
+
+[reading_time]
+one = "Bir dakika"
+other = "{{ .Count }} dakika"
+
+[page_not_found]
+other = "Sayfa Bulunamadı."
+
+[page_does_not_exist]
+other = "Üzgünüm, sayfaya ulaşılamıyor"
+
+[head_back]
+other = "Buraya dönebilirsiniz <a href=\"{{ . }}\">Ana Sayfa</a>."
+
+[comments]
+other = "yorumlar"
+
+[send]
+other = "Gönder"
